@@ -6,6 +6,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/96446385/187094457-7ac37601-f925-4fb1-b07b-ddde86d1973f.png)
 
+Skills
+Java ?style=flat-square&logo=appveyor  
+
 <!--
 **maflojuarez/maflojuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
